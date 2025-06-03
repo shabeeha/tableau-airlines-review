@@ -23,6 +23,15 @@ Users can interactively **filter by aircraft, traveler type, country, and time**
 
 ---
 
+## 🚀 Features To Explore
+
+- Region-wise satisfaction heatmap
+- Ratings by **seat type** and **traveler type**
+- Drill-down by aircraft models
+- Review volume trends over time
+
+---
+
 ## 📬 Feedback
 
 If you have suggestions or want to collaborate, feel free to open an issue or connect via [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/shabeeha-ahmed/)).
